@@ -4,4 +4,8 @@
 #### Script1 : this script is for creating users on a remote server using ssh utility in Linux.
 #### Script2 : this script is for making backup of directeries into a remote server using scp Command in "Openssh" utility.
 #### Script3 : this script is for monitoring the filesystem disk space usage and alerting the administrater in case of passing the maximum limitations.
+#### System_info : this script is for displaying infomrations about the system  like the filesystem disk space usage, the kernal infos, processes and memory managment.
+
+
+
 
